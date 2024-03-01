@@ -24,11 +24,9 @@ author:
   avatar           : "https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yang_formal-1.jpg"
   name             : "Prof Dean Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Dean Yang is a Professor in the Department of Economics and the Ford School of Public Policy at the University of Michigan."
-  location         : "Address:Lorch Hall 206
-                      611 Tappan Avenue
-                      University of Michigan
-                      Ann Arbor, MI 48109"
+  bio              : "Dean Yang is a Professor in the Department of Economics and 
+                      the Ford School of Public Policy at the University of Michigan."
+  location         : "USA"
   employer         : "University of Michigan"
   uri              : # URL
   email            : "deanyang@umich.edu" 
