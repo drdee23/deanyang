@@ -22,13 +22,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yang_formal-1.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Prof Dean Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dean Yang is a Professor in the Department of Economics and the Ford School of Public Policy at the University of Michigan."
+  location         : "Address:Lorch Hall 206
+                      611 Tappan Avenue
+                      University of Michigan
+                      Ann Arbor, MI 48109"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "deanyang@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
