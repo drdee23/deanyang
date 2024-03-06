@@ -1,0 +1,11 @@
+# main links links
+devlab-nav:
+  - title: "Devlab"
+    url: /devlab/
+
+  - title: "Devlab 2"
+    url: /devlab_page_2/
+
+  - title: "Devlab 3"
+    url: /devlab_page_3/    
+    
