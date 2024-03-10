@@ -196,9 +196,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+# _working_papers
 # Collections
 collections:
+  working_papers:
+    output: true
+    permalink: /:collection/:path/
   publications_in_edit:
     output: true
     permalink: /:collection/:path/

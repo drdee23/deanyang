@@ -5,16 +5,30 @@ title: "Working papers"
 ---
 
 
-<!-- =============================Dev Lab Content Below========================== -->
+<!-- ======================================================= -->
 
 
-### Some sample Working papers content
+* [War Mobilization and Economic Development: World War II and Structural Transformation in India](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2024/02/parvathaneni-yang-2024-war-mobilization-india.pdf) (with Aneesha Parvathaneni).
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+<!-- /////////////// -->
+* [Media, Politics, and Conflict: Evidence from Television in India](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2022/10/khanna-murathanoglu-theoharides-yang-2022-abundance-from-abroad.pdf) (with Paul Brimble).
+
+
+<!-- /////////////// -->
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2022/10/khanna-murathanoglu-theoharides-yang-2022-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides).
+
+
+<!-- /////////////// -->
+* [Picture This: Social Distance and the Mistreatment of Migrant Workers ](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2022/12/bblsty-2022-MistreatmentMigrantWorkers.pdf) (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson).
+
+
+<!-- /////////////// -->
+* [Information and Immigrant Settlement](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2021/10/barsbai-licuanan-steinmayr-tiongson-yang-2021-information-networks.pdf) (with Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson). Revise and resubmit, Journal of Development Economics.
+
+
+<!-- /////////////// -->
+### Permanent working paper
+
+
+* [The Impact of Rainfall on Rice Output in Indonesia](http://www.nber.org/papers/w20302) (with David I. Levine), NBER Working Paper No. 20302, July 2014.
