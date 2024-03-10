@@ -1,6 +1,6 @@
 ---
 permalink: /devlab_page_2/
-title: "Devlab"
+title: "DevLab"
 
 ---
 

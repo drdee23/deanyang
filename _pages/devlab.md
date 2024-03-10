@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Devlab"
+title: "DevLab"
 permalink: /devlab/
 author_profile: true
 ---
